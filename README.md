@@ -1,1 +1,1 @@
-# sjSDK
+# js-SDK
